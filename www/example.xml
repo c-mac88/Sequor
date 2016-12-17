@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<gpx version="1.0" creator="ExpertGPS 1.1.1 - http://www.topografix.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/2 http://www.topografix.com/GPX/Private/TopoGrafix/0/2/topografix.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/2">
+<name>Blue Hills Reservation</name>
+<desc>Riding in the Blue Hills is a mix of fast fire roads and technical rock gardens.  Oh, and there's a hill around every corner, too.
+Watch out for horses on the fire roads, and pick up a mountain bike trail map at the Headquarters trailhead.  Trails marked in red are off-limits to bikes.  Every intersection in the Blue Hills is marked with a 4 digit number, shown on the map.
+The Blue Hills are a great place to hike, as well!</desc>
+<author>Dan Foster</author>
+<email>trails@topografix.com</email>
+<url>http://www.nemba.org/ridingzone/p_Blue_Hills_Reservation.html</url>
+<urlname>Blue Hills description at NEMBA</urlname>
+<time>2002-04-19T02:47:17Z</time>
+<keywords>blue hills, mountain biking, milton</keywords>
+<bounds minlat="42.204420" minlon="-71.123630" maxlat="42.228312" maxlon="-71.069634">
+</bounds>
+<wpt lat="42.209547" lon="-71.119025">
+<ele>86.258400</ele>
+<time>2001-06-24T20:59:47Z</time>
+<name>LOOKOUT</name>
+<desc>Lookout Rock</desc>
+<sym>Summit</sym>
+<type>rock</type>
+</wpt>
+<wpt lat="42.218051" lon="-71.112672">
+<ele>114.041260</ele>
+<time>2001-10-13T23:50:58Z</time>
+<name>1072</name>
+<desc>1072</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.208834" lon="-71.107853">
+<ele>91.744800</ele>
+<time>2001-06-24T20:59:47Z</time>
+<name>1081</name>
+<desc>1081</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.215053" lon="-71.109739">
+<ele>143.256000</ele>
+<time>2001-05-26T21:52:38Z</time>
+<name>1082</name>
+<desc>1082</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.219810" lon="-71.112492">
+<name>1085</name>
+<desc>1085</desc>
+<sym>Dot</sym>
+</wpt>
+<wpt lat="42.219598" lon="-71.110304">
+<name>1100</name>
+<desc>1100</desc>
+<sym>Dot</sym>
+</wpt>
+<wpt lat="42.216088" lon="-71.107977">
+<ele>155.752800</ele>
+<time>2001-05-26T21:52:38Z</time>
+<name>1103</name>
+<desc>1103</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.211321" lon="-71.104800">
+<ele>90.525600</ele>
+<time>2001-06-24T20:59:48Z</time>
+<name>1110</name>
+<desc>1110</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.221506" lon="-71.108347">
+<ele>82.296000</ele>
+<time>2001-05-26T21:52:38Z</time>
+<name>1114</name>
+<desc>1114</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.222848" lon="-71.105258">
+<ele>67.177368</ele>
+<time>2001-10-13T23:50:58Z</time>
+<name>1135</name>
+<desc>1135</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.220552" lon="-71.104257">
+<ele>113.385600</ele>
+<time>2001-05-26T21:52:37Z</time>
+<name>1140 LOGS</name>
+<desc>1140 - The log pyramid</desc>
+<sym>Danger Area</sym>
+<type>Danger Area</type>
+</wpt>
+<wpt lat="42.217001" lon="-71.102706">
+<ele>88.696800</ele>
+<time>2001-06-24T20:59:47Z</time>
+<name>1141</name>
+<desc>1141</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.225669" lon="-71.098855">
+<ele>85.039200</ele>
+<time>2001-05-26T21:52:38Z</time>
+<name>1175</name>
+<desc>1175</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.223768" lon="-71.097067">
+<name>1183</name>
+<desc>1183</desc>
+<sym>Dot</sym>
+</wpt>
+<wpt lat="42.222728" lon="-71.096953">
+<ele>40.538400</ele>
+<time>2001-06-24T20:59:47Z</time>
+<name>1185</name>
+<desc>1185</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.224446" lon="-71.095441">
+<name>1191</name>
+<desc>1191</desc>
+<sym>Dot</sym>
+</wpt>
+<wpt lat="42.210681" lon="-71.089384">
+<ele>83.515200</ele>
+<time>2001-05-26T21:52:36Z</time>
+<name>2070</name>
+<desc>2070</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.210898" lon="-71.084249">
+<ele>66.141600</ele>
+<time>2001-06-24T20:59:46Z</time>
+<name>2096</name>
+<desc>2096</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.216248" lon="-71.084324">
+<ele>80.772000</ele>
+<time>2001-05-26T21:52:36Z</time>
+<name>2112</name>
+<desc>2112</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.219117" lon="-71.086398">
+<ele>79.857600</ele>
+<time>2001-05-26T21:52:36Z</time>
+<name>7672 ROAD</name>
+<desc>Road</desc>
+<sym>Truck Stop</sym>
+<type>Truck Stop</type>
+</wpt>
+<wpt lat="42.227122" lon="-71.094603">
+<ele>43.281600</ele>
+<time>2001-05-26T21:52:36Z</time>
+<name>7711 ROAD</name>
+<desc>Unquity Road</desc>
+<sym>Truck Stop</sym>
+<type>Truck Stop</type>
+</wpt>
+<wpt lat="42.208131" lon="-71.095172">
+<ele>51.511200</ele>
+<time>2001-05-26T21:52:37Z</time>
+<name>BEACH</name>
+<desc>Beach</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.204420" lon="-71.077790">
+<time>2001-05-26T21:52:41Z</time>
+<name>BEECH-RUN</name>
+<desc>BEECH-RUN</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.211920" lon="-71.081400">
+<ele>118.567200</ele>
+<time>2001-05-26T21:52:44Z</time>
+<name>BOYCE</name>
+<desc>Boyce Hill</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.219420" lon="-71.101400">
+<ele>136.855200</ele>
+<time>2001-05-26T21:52:45Z</time>
+<name>BREAKNECK</name>
+<desc>Breakneck Ledge</desc>
+<sym>Dangerous Area</sym>
+<type>Dangerous Area</type>
+</wpt>
+<wpt lat="42.211090" lon="-71.089740">
+<ele>85.344000</ele>
+<time>2001-05-26T21:52:45Z</time>
+<name>BREEZEHILL</name>
+<desc>BREEZEHILL</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.214420" lon="-71.075020">
+<ele>151.180800</ele>
+<time>2001-05-26T21:52:46Z</time>
+<name>BUCK</name>
+<desc>Buck Hill</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.208870" lon="-71.081400">
+<ele>100.279200</ele>
+<time>2001-05-26T21:52:46Z</time>
+<name>BURNT-HILL</name>
+<desc>BURNT-HILL</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.215241" lon="-71.111520">
+<ele>168.355225</ele>
+<time>2001-10-13T23:50:58Z</time>
+<name>BWZFLATO</name>
+<desc>BWZFLATO</desc>
+<sym>Shipwreck</sym>
+<type>Shipwreck</type>
+</wpt>
+<wpt lat="42.220424" lon="-71.086827">
+<ele>71.628000</ele>
+<time>2001-05-26T21:52:36Z</time>
+<name>DEADEND</name>
+<desc>Dead End</desc>
+<sym>Zoo</sym>
+<type>Zoo</type>
+</wpt>
+<wpt lat="42.222087" lon="-71.098765">
+<ele>126.492000</ele>
+<time>2001-05-26T21:52:52Z</time>
+<name>DEL-FLAT01</name>
+<desc>DEL-FLAT01</desc>
+<sym>Shipwreck</sym>
+<type>Shipwreck</type>
+</wpt>
+<wpt lat="42.215086" lon="-71.109856">
+<ele>146.608800</ele>
+<time>2001-05-26T21:52:53Z</time>
+<name>DEW-FLAT01</name>
+<desc>DEW-FLAT01</desc>
+<sym>Shipwreck</sym>
+<type>Shipwreck</type>
+</wpt>
+<wpt lat="42.218040" lon="-71.095290">
+<ele>152.400000</ele>
+<time>2001-05-26T21:53:00Z</time>
+<name>HANCOCK</name>
+<desc>Hancock Hill</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.217200" lon="-71.100020">
+<ele>143.256000</ele>
+<time>2001-05-26T21:53:01Z</time>
+<name>HEMINGWAY</name>
+<desc>Hemingway Hill</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.212760" lon="-71.097240">
+<ele>127.711200</ele>
+<time>2001-05-26T21:53:03Z</time>
+<name>HOUGHTON</name>
+<desc>Houghton Hill</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.207480" lon="-71.095290">
+<ele>48.158400</ele>
+<time>2001-05-26T21:53:03Z</time>
+<name>HOUGHTPOND</name>
+<desc>HOUGHTPOND</desc>
+<sym>Fishing Area</sym>
+<type>Fishing Area</type>
+</wpt>
+<wpt lat="42.214481" lon="-71.094075">
+<ele>61.264800</ele>
+<time>2001-05-26T21:52:37Z</time>
+<name>HQ</name>
+<desc>Headquarters</desc>
+<sym>Building</sym>
+<type>Building</type>
+</wpt>
+<wpt lat="42.212480" lon="-71.123630">
+<ele>82.296000</ele>
+<time>2001-05-26T21:53:08Z</time>
+<name>LITTLBLUHI</name>
+<desc>LITTLBLUHI</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+<wpt lat="42.211229" lon="-71.115376">
+<ele>181.660800</ele>
+<time>2001-05-26T21:52:37Z</time>
+<name>LOOKOUT</name>
+<desc>Lookout Rock</desc>
+<sym>Scenic Area</sym>
+<type>Scenic Area</type>
+</wpt>
+<wpt lat="42.210180" lon="-71.096281">
+<ele>54.254400</ele>
+<time>2001-05-26T21:52:36Z</time>
+<name>PARKING</name>
+<desc>Parking</desc>
+<sym>Car</sym>
+<type>Car</type>
+</wpt>
+<wpt lat="42.221934" lon="-71.088900">
+<ele>58.765440</ele>
+<time>2001-10-13T23:50:58Z</time>
+<name>PIT</name>
+<desc>Gravel Pit</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.210941" lon="-71.083988">
+<ele>68.580000</ele>
+<time>2001-06-24T20:59:46Z</time>
+<name>SINGLE</name>
+<desc>Pond Singletrack</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.215248" lon="-71.119145">
+<ele>84.429600</ele>
+<time>2001-06-24T20:59:46Z</time>
+<name>SKIAREA</name>
+<desc>Ski Area</desc>
+<sym>Dot</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.211362" lon="-71.114709">
+<ele>187.452000</ele>
+<time>2001-05-26T21:52:37Z</time>
+<name>SUMMIT</name>
+<desc>Summit</desc>
+<sym>Tall Tower</sym>
+<type>Dot</type>
+</wpt>
+<wpt lat="42.216817" lon="-71.113374">
+<ele>141.122400</ele>
+<time>2001-05-26T21:52:37Z</time>
+<name>SUMMITROAD</name>
+<desc>Summit Road</desc>
+<sym>Truck Stop</sym>
+<type>Truck Stop</type>
+</wpt>
+<wpt lat="42.213040" lon="-71.086400">
+<ele>134.112000</ele>
+<time>2001-05-26T21:53:33Z</time>
+<name>TUCKER</name>
+<desc>Tucker Hill</desc>
+<sym>Summit</sym>
+<type>Summit</type>
+</wpt>
+</gpx>

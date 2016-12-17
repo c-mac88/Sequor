@@ -1,0 +1,1 @@
+var gs = new mongodb.GridStore(db, filename, mode, [options]);

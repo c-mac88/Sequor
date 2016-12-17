@@ -1,0 +1,14 @@
+#mapsPageContent {
+	background-color: black;
+    background-size: cover;
+}
+
+#map {
+	height: 350px;
+	width: 350px;
+}
+
+#orange {
+	font-size: 74px;
+    font-family: 'Days One', sans-serif;
+}
